@@ -1,19 +1,42 @@
-# Python Learning 🚀
+# 🚀 My 6-Month Data & Tech Journey  
 
-Hey there! 👋  
-I am planning to learn **Python** and will keep uploading my practice codes here as I go along.  
-If you're a rookie too, feel free to check them out — hope you enjoy! ✨  
+Hi! I’m Mohit 👋  
+This repository is my personal learning journey where I’m building strong foundations in **Python, SQL, and Excel** — the core tools of data analytics and problem-solving.  
 
----
-
-## 📂 Current Projects
-- `hello.py` → My first Python program (classic Hello World)  
-- `oddeven.py` → Check whether a number is odd or even  
-- `age.py` → Categorize people by age (kid, teen, adult, etc.)  
-- `atm.py` → A simple ATM simulation (PIN check, balance, withdraw, exit)  
+## 🎯 The Goal  
+To master these three pillars within **6 months** by practicing consistently, building projects, and documenting everything week by week.  
 
 ---
 
-## ⚡ What's Next?
-More small projects & exercises coming soon as I continue my Python journey 🚀  
-Stay tuned!
+## 📅 Roadmap  
+
+- **Month 1–2** → Python fundamentals & mini-projects 🐍  
+- **Month 3–4** → SQL mastery with queries, joins, transactions & projects 💾  
+- **Month 5** → Excel for analysis, dashboards & automation 📊  
+- **Month 6** → Capstone project combining all 3 tools into one solution 🌟  
+
+---
+
+## ✅ Weekly Progress  
+
+- **Week 1** → ATM Simulation in Python 🏧 (✅ completed)  
+- **Week 2** → *(to be updated...)*  
+- **Week 3** → *(to be updated...)*  
+...  
+
+---
+
+## 🛠️ Projects Planned  
+
+- **Python:** Calculator, ATM Simulation, File Organizer, JARVIS-lite Assistant  
+- **SQL:** Employee Database, Library Management System, Query Challenges  
+- **Excel:** Data Cleaning, Sales Dashboard, Formula Automation  
+
+---
+
+## ✨ Why This Repo?  
+
+Because learning is fun when you **track it like a project**.  
+By the end of 6 months, this repo will be my **portfolio of growth** 📂✨  
+
+Stay tuned — one step closer every week 🚀
